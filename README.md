@@ -108,4 +108,4 @@ This installation script is provided as-is for educational and research purposes
 
 ---
 
-**Pro tip**: After installation, try running `dadjoke` in Stata for a smile while your regressions run! 😄
+**Pro tip**: After installation, try running `motivate` and the `demotivate` in Stata for a smile while your regressions run! 😄
