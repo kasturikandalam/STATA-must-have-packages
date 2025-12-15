@@ -16,6 +16,7 @@ ssc install ranktest, replace
 ssc install ivreghdfe, replace
 ssc install winsor2, replace
 ssc install coefplot, replace 
+ssc install schemepack, replace
 
 * Data handling
 ssc install missings, replace
@@ -144,6 +145,7 @@ ssc install motivatedolly, replace
 ssc install care, replace
 ssc install ghazal_guzzler, replace
 ssc install haiku, replace
+
 
 
 
